@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A kickass title!
-email: haohaowang.oscar@gmail.com
+title: OscarWang114
+email: chihhaowang.oscar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    I need some awesome descriptions.
+    My blog.
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://oscarwang114.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oscarwang114.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OscarWang114
 github_username:  OscarWang114
 
@@ -42,3 +42,55 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Minimal mistakes configurations.
+# See https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
+include: ["_pages"]
+
+locale: "en-US"
+name: "Oscar Wang"
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      comments: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# lunr search by default, consider using algolia
+# Only the first 50 words of a post or page’s body content is added to the Lunr search index.
+search: true
+
+author:
+  name   : "Oscar Wang"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : # optional
+  uri    : "http://your-site.com"
+  home   : # null (default), "absolute or relative url to link to author home"

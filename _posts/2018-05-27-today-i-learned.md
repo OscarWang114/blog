@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "5/27 Today I learned"
 date:   2018-05-27 23:40:00 +0800
 categories: [ blog, til ]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "5/30 Today I learned"
 date:   2018-05-30 23:40:00 +0800
 categories: [ blog, til ]
@@ -32,3 +31,4 @@ tags: [ blog, til ]
 * NAT Network address translation
 * MAC Address
 * Floating IP Address
+* Ghostery
