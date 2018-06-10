@@ -1,8 +1,8 @@
 ---
 title:  "JavaScript"
 date:   2018-05-30 23:40:00 +0800
-categories: [ blog, til ]
-tags: [ blog, cs, programming language ]
+categories: [ til ]
+tags: [ cs, programming language ]
 ---
 
 # JavaScript

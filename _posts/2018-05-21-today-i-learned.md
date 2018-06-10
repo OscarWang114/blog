@@ -1,8 +1,8 @@
 ---
 title:  "5/21 Today I learned"
 date:   2018-05-21 23:40:00 +0800
-categories: [ blog, til ]
-tags: [ blog, til ]
+categories: [ til ]
+tags: [ til ]
 ---
 
 * **The existence of [Google Code of Conduct](https://abc.xyz/investor/other/google-code-of-conduct.html)**

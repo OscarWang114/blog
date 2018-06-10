@@ -1,8 +1,8 @@
 ---
 title:  "5/30 Today I learned"
 date:   2018-05-30 23:40:00 +0800
-categories: [ blog, til ]
-tags: [ blog, til ]
+categories: [ til ]
+tags: [ til ]
 ---
 * React (BD: 2013/5/29) turned 5 years old. Happy Birthday!
 * [Popper.js](https://popper.js.org/)
