@@ -1,3 +1,8 @@
+# local dev environment:
+# theme: minimal-mistakes-jekyll
+# Using remote_theme for github pages:
+remote_theme: "mmistakes/minimal-mistakes"
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -27,10 +32,6 @@ github_username:  OscarWang114
 
 # Build settings
 markdown: kramdown
-
-# theme: minimal-mistakes-jekyll
-# Using remote_theme for github pages:
-remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
