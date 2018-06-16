@@ -71,8 +71,13 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
+      author_profile: true
       read_time: true
       comments: true
+      share: true
+      related: true
+      classes: wide
   # _pages
   - scope:
       path: ""
