@@ -13,6 +13,10 @@ I am a big fan of quotes, especially motivational ones. Here is a list of my fav
 >
 > Samuel Beckett
 
+> 你未來選擇要走的方向很重要。人都有惰性，所以要學會去挑戰高難度的東西。
+>
+> 老爸
+
 > True freedom is impossible without a mind made free by discipline.
 >
 > Mortimer J. Adler
