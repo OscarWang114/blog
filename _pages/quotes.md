@@ -3,7 +3,7 @@ title: Quotes
 permalink: /quotes/
 ---
 
-I am a big fan of quotes, especially motivational ones. Here is a list of my favorite ones.
+I am a big fan of quotes, especially motivational ones. Here is a list of my favorites.
 
 > Greatness is not this esoteric, elusive, god-like feature that only the special among us will ever taste. It is something that truly exists in all of us.
 >
