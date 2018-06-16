@@ -105,3 +105,7 @@ author:
   email  : # optional
   uri    : "https://oscarwang114.me"
   home   : # null (default), "absolute or relative url to link to author home"
+  github           : "OscarWang114"
+  linkedin         : "oscarwang114"
+  facebook         : "haohaowang.oscar"
+  twitter          : "OscarWang114"
