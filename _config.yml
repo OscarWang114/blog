@@ -101,7 +101,7 @@ search: true
 author:
   name   : "Oscar Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Loves creating, programming, idea sharing, and running. Embraces language and culture diversity."
+  bio    : "Loves programming, idea sharing, and running. Embraces language and culture diversity."
   email  : # optional
   uri    : "https://oscarwang114.me"
   home   : # null (default), "absolute or relative url to link to author home"
