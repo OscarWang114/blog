@@ -21,6 +21,10 @@ I am a big fan of quotes, especially motivational ones. Here is a list of my fav
 >
 > 媽
 
+> My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment.
+>
+> Oprah Winfrey
+
 > True freedom is impossible without a mind made free by discipline.
 >
 > Mortimer J. Adler
